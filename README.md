@@ -1,0 +1,2 @@
+# simple_browser_gesture
+实现QQ、360等国产浏览器自带的鼠标手势操作
